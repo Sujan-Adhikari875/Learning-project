@@ -124,6 +124,6 @@ Classification-Model-Comparison/
 
 ## Author
 
-**Rajeev**
+**Adhikari Sujan**
 
 This project was created for learning, practicing, and comparing machine learning classification algorithms using Python and Scikit-learn.
