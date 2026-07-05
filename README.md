@@ -37,7 +37,7 @@ The Iris dataset is a well-known multiclass classification dataset containing th
 8. Hyperparameter tuning using GridSearchCV
 9. Evaluate models using multiple metrics
 10. Compare model performance
-11. Visualize results with confusion matrices
+
 
 ---
 
@@ -70,7 +70,6 @@ Each model was evaluated using:
 * Precision
 * Recall
 * F1-Score
-* Confusion Matrix
 
 These metrics provide a comprehensive comparison of model performance.
 
